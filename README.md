@@ -1,2 +1,3 @@
-# linux-doc
-Linux Help documentation
+# Linux Help documentation
+
+1. [Sudo](sudo/sudo.md)
