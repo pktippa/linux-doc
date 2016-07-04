@@ -1,0 +1,1 @@
+rsync -avz --exlcude=*.class source_folder user@remotehost:/remote/folder/path
