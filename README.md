@@ -7,3 +7,4 @@
 5. [Version](version/version.md)
 6. [Rsync](rsync/rsync.md)
 7. [Apt](apt/apt.md)
+8. [Mail](mail/README.md)
