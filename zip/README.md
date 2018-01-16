@@ -22,3 +22,11 @@
 ```sh
 $ gunzip name_of_gz_file.gz
 ```
+
+# tar.gz
+
+1. To unzip a .tar.gz file
+
+```sh
+$ tar -xvzf name_of_tar_gz_file.tar.gz
+```
